@@ -1,0 +1,11 @@
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\bin\Debug\net8.0\CafeSystem.Domain.deps.json
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\bin\Debug\net8.0\CafeSystem.Domain.dll
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\bin\Debug\net8.0\CafeSystem.Domain.pdb
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.AssemblyInfo.cs
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.dll
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\refint\CafeSystem.Domain.dll
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\CafeSystem.Domain.pdb
+C:\Users\Денис\Desktop\CafeSystem\CafeSystem.Domain\obj\Debug\net8.0\ref\CafeSystem.Domain.dll
